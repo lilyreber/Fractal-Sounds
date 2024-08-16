@@ -1,2 +1,2 @@
 # Fractal-Sounds
-![](https://github.com/lilyreber/Fractal-Sounds/blob/main/preview/trip.gif)
+![](https://github.com/lilyreber/Fractal-Sounds/blob/main/preview/trip.mp4)
